@@ -43,5 +43,5 @@
 	- unweighted-unifrac-emperor	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/0jaqvh4c9ar1i7w/unweighted_unifrac_emperor.qzv%3Fdl%3D1) or [download](https://www.dropbox.com/s/0jaqvh4c9ar1i7w/unweighted_unifrac_emperor.qzv?dl=0))	
 	- bray-curtis-emperor	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/01kufmxplaxnzob/bray_curtis_emperor.qzv%3Fdl%3D1) or [download](https://www.dropbox.com/s/01kufmxplaxnzob/bray_curtis_emperor.qzv?dl=0))	
 8. Rareifaction			
-	Alpha rarefaction curves	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/tqsdyvbv3os9boy/alpha-rarefaction.qzv%3Fdl%3D1) or [download](https://www.dropbox.com/s/tqsdyvbv3os9boy/alpha-rarefaction.qzv?dl=0))	
-	Rarefied table	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/51cn69wmrgozea9/rarefied_table.qza%3Fdl%3D1) or [download](https://www.dropbox.com/s/51cn69wmrgozea9/rarefied_table.qza?dl=0))	
+	- Alpha rarefaction curves	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/tqsdyvbv3os9boy/alpha-rarefaction.qzv%3Fdl%3D1) or [download](https://www.dropbox.com/s/tqsdyvbv3os9boy/alpha-rarefaction.qzv?dl=0))	
+	- Rarefied table	([view](https://view.qiime2.org/peek/?src=https%3A//dl.dropbox.com/s/51cn69wmrgozea9/rarefied_table.qza%3Fdl%3D1) or [download](https://www.dropbox.com/s/51cn69wmrgozea9/rarefied_table.qza?dl=0))	
