@@ -181,4 +181,8 @@ run it as:
 
 where `links.txt` is a list of all dropbox links for the files.
 
-**The organized output files can be explored in the results page accessible [here](results-qiime.md).** 
+**The organized output files can be explored in the results page accessible [here](results-qiime.md).**
+
+## Things to consider:
+
+The experimental design seems to ignore the fact that all controls were in one lane and most treatments in the other lane. Since this analysis is primarily based on sub-sampling (i.e., you are only amplifying a portion of 16s form a total set), there would be bias in these samples (different sets gets amplified in different lane). As a result, the results cannot be trusted. If the experimental design included some same individual sample, it would be easier to normalize them, but with current set-up, it is not possible.
