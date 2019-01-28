@@ -180,3 +180,5 @@ run it as:
 ```
 
 where `links.txt` is a list of all dropbox links for the files.
+
+**The organized output files can be explored in the results page accessible [here](results-qiime.md).** 
