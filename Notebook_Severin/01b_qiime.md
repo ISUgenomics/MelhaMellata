@@ -130,7 +130,24 @@ Alpha and beta diversity analysis. For sampling depth (rarefaction), the lowest 
 
 * need to make the samples.png plot
 
-![samples](samples.png)
+```
+library(qiime2R)
+library(phyloseq)
+library(tidyverse)
+
+statsdada2<-read_qza("stats-dada2.qza")
+p <- ggplot(as.data.frame(statsdada2$data), aes(x=rownames(statsdada2$data),y=statsdada2$data[,7])) +geom_bar(stat = "identity")+ ggtitle("Sequence Count") + xlab("Sample Name") + ylab("Frequency")
+p + theme(axis.text.x = element_text(angle = 90))
+
+png("samplecounts.png")
+p + theme(axis.text.x = element_text(angle = 90))
+dev.off()
+
+min(statsdada2$data[,7])
+[1] 27272
+```
+
+![samples](01b_qiime/samplecounts.png)
 
 
 ```bash
