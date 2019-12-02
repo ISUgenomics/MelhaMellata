@@ -114,4 +114,4 @@ There is clearly a strong lane effect and since only samples from the probiotic 
 
 There are no more DNA left to rerun the sequencing for these samples.  Therefore the best solution given the constraints is to remove lane 1 and only analyze samples in lane 2, which includes the probiotic, probiotic + live salmonella and salmonella treatements.
 
-[Analysis of lane 2 done here](/MelhaMellata/Notebook_Severin/01b_qiime.md)
+[Analysis of lane 2 done here](/Notebook_Severin/01b_qiime.md)
