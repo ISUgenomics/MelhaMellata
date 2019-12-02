@@ -102,7 +102,12 @@ qiime feature-table tabulate-seqs \
  Generate a tree for phylogenetic diversity analyses
 
 ```bash
-a
+  qiime phylogeny align-to-tree-mafft-fasttree \
+   --i-sequences rep-seqs-dada2.qza \
+   --o-alignment aligned-rep-seqs.qza \
+   --o-masked-alignment masked-aligned-rep-seqs.qza \
+   --o-tree unrooted-tree.qza \
+   --o-rooted-tree rooted-tree.qza
 ```
 
 Taxonomical analysis using GreenGenes database (13.8). After checking the amplicon length for the rep-seqs, it was noted that the primer pair 515F/806R was used for this study, so the pre-made database specific for this region was downloaded from qiime webpage.
@@ -198,3 +203,6 @@ qiime diversity alpha-rarefaction \
    --m-metadata-file sample-metadata.tsv \
    --o-visualization alpha-rarefaction.qzv
 ```
+
+
+![projected prediction](/Notebook_Severin/02_gneissAnalysis/Projected prediction.png)
