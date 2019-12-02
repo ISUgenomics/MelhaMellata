@@ -205,4 +205,4 @@ qiime diversity alpha-rarefaction \
 ```
 
 
-![projected prediction](/Notebook_Severin/02_gneissAnalysis/Projected prediction.png)
+![projected prediction](/Notebook_Severin/02_gneissAnalysis/Projectedprediction.png)
