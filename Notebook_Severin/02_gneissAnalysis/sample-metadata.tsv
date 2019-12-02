@@ -1,0 +1,27 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Primer	Plate	Platelocation	Project	Species	Source	AnimalID	Description1	Description	Lane	Unknown
+D1381	TAGACCGACTCC	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A1	5	A1	Lyte	Chicken	Ceceal Contents	28	AProbiotics	D1381	run2	A
+D1382	TGGAATTCGGCT	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A2	5	A2	Lyte	Chicken	Ceceal Contents	30	AProbiotics	D1382	run2	B
+D1383	GAAGATCTATCG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A3	5	A3	Lyte	Chicken	Ceceal Contents	31	AProbiotics	D1383	run2	A
+D1384	ATCGCCGCCTTG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A4	5	A4	Lyte	Chicken	Ceceal Contents	34	AProbiotics	D1384	run2	B
+D1385	TAGTGTCGGATC	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A5	5	A5	Lyte	Chicken	Ceceal Contents	36	AProbiotics	D1385	run2	A
+D1386	TCAAGCAATACG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A6	5	A6	Lyte	Chicken	Ceceal Contents	39	AProbiotics	D1386	run2	A
+D1387	AGGGAGCTTCGG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A7	5	A7	Lyte	Chicken	Ceceal Contents	41	LiveSalmonella	D1387	run2	B
+D1388	CTGGTAAGTCCA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A8	5	A8	Lyte	Chicken	Ceceal Contents	42	LiveSalmonella	D1388	run2	A
+D1389	GGACTTCCAGCT	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A9	5	A9	Lyte	Chicken	Ceceal Contents	43	LiveSalmonella	D1389	run2	A
+D1390	GGAGGAGCAATA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A10	5	A10	Lyte	Chicken	Ceceal Contents	52	LiveSalmonella	D1390	run2	B
+D1391	CATGAACAGTGT	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A11	5	A11	Lyte	Chicken	Ceceal Contents	54	LiveSalmonella	D1391	run2	B
+D1392	TAGGTAACCGAT	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_A12	5	A12	Lyte	Chicken	Ceceal Contents	55	LiveSalmonella	D1392	run2	B
+D1393	GGAATCCGATTA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B1	5	B1	Lyte	Chicken	Ceceal Contents	57	LiveSalmonella	D1393	run2	B
+D1394	TTCCCACCCATT	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B2	5	B2	Lyte	Chicken	Ceceal Contents	58	LiveSalmonella	D1394	run2	B
+D1395	GTCCCAGTCCCA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B3	5	B3	Lyte	Chicken	Ceceal Contents	59	LiveSalmonella	D1395	run2	A
+D1396	AGCCAGTCATAC	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B4	5	B4	Lyte	Chicken	Ceceal Contents	60	LiveSalmonella	D1396	run2	A
+D1397	GTGTAATGTAGA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B5	5	B5	Lyte	Chicken	Ceceal Contents	61	Probiotics-AND-LiveSalmonella	D1397	run2	A
+D1398	ATACTGAGTGAA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B6	5	B6	Lyte	Chicken	Ceceal Contents	62	Probiotics-AND-LiveSalmonella	D1398	run2	A
+D1399	TGTATGCTTCTA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B7	5	B7	Lyte	Chicken	Ceceal Contents	63	Probiotics-AND-LiveSalmonella	D1399	run2	B
+D1400	GAACTCGCTATG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B8	5	B8	Lyte	Chicken	Ceceal Contents	64	Probiotics-AND-LiveSalmonella	D1400	run2	B
+D1401	CGATATCAGTAG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B9	5	B9	Lyte	Chicken	Ceceal Contents	66	Probiotics-AND-LiveSalmonella	D1401	run2	A
+D1402	TCGTAGTAATGG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B10	5	B10	Lyte	Chicken	Ceceal Contents	69	Probiotics-AND-LiveSalmonella	D1402	run2	B
+D1403	CGGGTCCTCTTG	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B11	5	B11	Lyte	Chicken	Ceceal Contents	73	Probiotics-AND-LiveSalmonella	D1403	run2	A
+D1404	GTCGGGCCGGTA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_B12	5	B12	Lyte	Chicken	Ceceal Contents	74	Probiotics-AND-LiveSalmonella	D1404	run2	A
+D1405	TCCGACCCGATC	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_C1	5	C1	Lyte	Chicken	Ceceal Contents	76	Probiotics-AND-LiveSalmonella	D1405	run2	B
+D1406	CCGCATGACCTA	GTGTGYCAGCMGCCGCGGTAA	Primer_Plate7_C2	5	C2	Lyte	Chicken	Ceceal Contents	79	Probiotics-AND-LiveSalmonella	D1406	run2	A
