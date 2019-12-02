@@ -3,7 +3,7 @@
 * 2019/11/25
 * /Users/severin/qiimeTemp/
 
-There appears to be a lane effect and we want to investigate the extent to which the lane effect is confounded with any of the Treatment groups.
+There appears to be a lane effect and we want to investigate the extent to which the lane effect is confounded with any of the treatment groups.
 
 * See [Notebook_Seetharam/methods-qiime.md](/MelhaMellata/Notebook_Seetharam/methods-qiime.md) for the original analysis
 

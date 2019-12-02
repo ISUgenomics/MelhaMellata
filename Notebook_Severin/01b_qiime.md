@@ -174,7 +174,20 @@ qiime emperor plot  \
    --p-custom-axes AnimalID   \
    --o-visualization core-metrics-results/unweighted-unifrac-emperor-treatment.qzv
 
+qiime tools view unweighted-unifrac-emperor-treatment.qzv
 ```
+
+We can see that there is good separation between the treatement groups.
+
+![color key](/Notebook_Severin/01b_qiime/PNGs/colorKey.png)
+
+![treatement separation](/Notebook_Severin/01b_qiime/PNGs/unweighted-unifrac-emperor-treatement_axis2-3.png)
+
+However, there is also a large unknown factor in this data that could be differences in sex. It doesn't affect the main axes that separate out treatment but will be accounted for in the model.
+
+![treatement separation](/Notebook_Severin/01b_qiime/PNGs/unweighted-unifrac-emperor-treatement_axis1-2.png)
+
+
 Rarefaction Plots
 
 ```bash
