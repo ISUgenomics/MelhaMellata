@@ -1,4 +1,4 @@
-# Exploring 16S data from Oral treatments with probiotics and live Salmonella
+# Exploring 16S data from Oral treatments with probiotics and live Salmonella vaccine
 
 * 2019/11/25
 * /Users/severin/qiimeTemp/
