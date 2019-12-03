@@ -44,9 +44,9 @@ qiime gneiss ols-regression \
   --i-table balances.qza \
   --i-tree hierarchy.qza \
   --m-metadata-file sample-metadata.tsv \
-  --o-visualization regression_summary_lane.qzv
+  --o-visualization regression_summary_treatment.qzv
 
-  qiime tools view regression_summary_lane.qzv
+  qiime tools view regression_summary_treatment.qzv
 ```
 
 ### Output
@@ -587,7 +587,7 @@ a230ee775999db0be47f185ac53a764c	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__C
 8ac806edce9a692df56a9eea816a15f0	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__Clostridiales	 f__	 g__	 s__
 6bde3249ff215fe8d72f5628f292431b	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__Clostridiales	 f__Ruminococcaceae	 g__Oscillospira	 s__
 0246aa933abc53fbde05942016fc2d10	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__Clostridiales	 f__Lachnospiraceae	 g__Coprococcus	 s__
-0f123b0da178612cd7dd4c9d8378ae6c	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__Clostridiales	 o__Clostridiales	 o__Clostridiales	 o__Clostridiales
+0f123b0da178612cd7dd4c9d8378ae6c	k__Bacteria	 p__Firmicutes	 c__Clostridia  	 o__Clostridiales	 o__Clostridiales	 o__Clostridiales	 o__Clostridiales
 67ed743cd7edd9fc33966deb93c8fcb2	k__Bacteria	 p__Firmicutes	 c__Clostridia	 o__Clostridiales	 f__Ruminococcaceae	 f__Ruminococcaceae	 f__Ruminococcaceae
 ```
 
