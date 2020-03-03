@@ -182,7 +182,7 @@ qiime emperor plot  \
 qiime tools view unweighted-unifrac-emperor-treatment.qzv
 ```
 
-We can see that there is good separation between the treatement groups.
+We can see that there is good separation between the treatment groups.
 
 ![color key](/Notebook_Severin/01b_qiime/PNGs/colorKey.png)
 
